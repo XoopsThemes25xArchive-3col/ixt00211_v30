@@ -1,0 +1,115 @@
+IXThemes ChangeLog
+
+== IXThemes ixt00211 ==
+
+===2010-04-27 : 3.0 ===
+
+Improved:
+- Language autotune of control buttons has been added.
+- Possibility of adjustment of columns width in %% has been added.
+- New version of jQuery Cycle Plugin (Version: 2.86 05-APR-2010) has been added.
+- Loading JS and CSS is optimised.
+- New scripts of control of columns and a footer has been added.
+
+===2010-04-11 : 2.9 ===
+
+Bugs fixed:
+- Small bugs in specific XOOPS HTML tags and CSS classes has been corrected. 
+
+===2010-04-08 : 2.8 ===
+
+Improved:
+- Visibility of any block in sidebar can be preset (see assigns.html). 
+- Seven preestablished scenarios for a zone of slides is added (see slides.html).
+- The 'assigns' template is updated (see assigns.html).
+- New script for control a block in sidebar is added (see blockzone.html).
+- The tlocks numberic for admin users is improved (see blockzone.html).
+- New slides system based on jQuery Cycle Plugin (http://jquery.malsup.com/cycle) is added.
+
+===2010-04-05 : 2.7 ===
+
+Improved:
+- Autohide control zones if javascripts in browser is disabled.
+- Possibility of hide/show blocks in sidebars if click on header is added.
+- Cursor:pointer for block headers is added
+- Code of control1 zone is optimized (sidebars hide/show)
+- Code of control2 zone is optimized (footer hide/show)
+
+Bugs fixed:
+- #2970317 (http://sourceforge.net/tracker/?func=detail&aid=2970317&group_id=247341&atid=1126780)
+
+===2010-03-14 : 2.6 ===
+
+Improved:
+- Possibility of switching-off style for blocks in extended footer is added.
+- Possibility of switching-off style for blocks in sidebars is added.
+- Preheader structure is optimized
+
+Bugs fixed:
+- #2968603 (http://sourceforge.net/tracker/?func=detail&aid=2968603&group_id=247341&atid=1126780)
+- Small bugs in control zones for IE are fixed
+- Small bugs in expanded header for IE are fixed
+- Sidebars width bugs for IE are fixed
+- Blocks width in expanded footer bugs for IE are fixed
+
+===2010-03-01 : 2.5 ===
+
+Improved:
+- Possibility of concatenation of left and right columns is added.
+- jQuery 1.4.2 ready and included.
+
+===2010-02-26 : 2.4 ===
+
+Improved:
+- Possibility of switching-off for extended header is added.
+- Possibility of switching-off for RSS link in header is added.
+- Possibility of switching-off for preheader is added.
+- Cursor:pointer for buttons is added.
+
+===2010-02-24 : 2.3 ===
+
+Improved:
+- Possibility of switching-off for footer is added.
+- Possibility of switching-off for control zones is added.
+- Possibility of switching-off for slides zone is added.
+- Possibility of columns layout settings is added ( LRC, LCR, CLR).
+- The maximum height of a footer background is increased up to 600px.
+- The width of columns is established now not in pixels and in percentage.
+- jQuery 1.4.1 ready and included.
+
+===2009-11-28 : 2.0 ===
+
+Improved:
+- The zone for promo slides is added
+- The expanded footer zone is added
+- Loading jQuery from CMS core (for XOOPS 2.4.x) is added
+- The self-adjusted menubar is added
+
+===2009-06-18 : 1.4 ===
+
+Fixed:
+- #2803970: "Problems of expansion of the central column in the absence of blocks in the left or right column."
+
+===2009-05-16 : 1.3 ===
+
+Fixed:
+- "File does not exist: .../none" in apache error.log (IE6 only). Thanks ghia.
+- table td, table th (border-width:1px)
+- xoops.js is loaded after style.css loading (it is shown only for IE6)
+- Arrangement of the content block for XOOPS based CMS (does not mention XOOPS 2.3.3)
+
+===2009-04-17 : 1.2 ===
+
+Improved:
+- New theme structure ( /docs, /icons, /xoplugins, /xosmarty are added)
+- Large screenshot added (screenshot.jpg)
+- .htaccess added
+- xo-info.php added
+
+===2009-04-13 : 1.1 ===
+
+This release has been not published
+
+===2009-04-06 : 1.0 ===
+
+The first public release of an ixt00211 theme
